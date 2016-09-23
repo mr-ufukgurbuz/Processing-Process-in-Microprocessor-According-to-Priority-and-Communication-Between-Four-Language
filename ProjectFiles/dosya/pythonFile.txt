@@ -1,0 +1,160 @@
+--------------------------------------------------------------------------------
+				<<< Q=1 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 1 Avarage Waiting Time = 47.049999
+--------------------------------------------------------------------------------
+				<<< Q=2 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 2 Avarage Waiting Time = 47.299999
+--------------------------------------------------------------------------------
+				<<< Q=3 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 3 Avarage Waiting Time = 48.049999
+--------------------------------------------------------------------------------
+				<<< Q=4 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 4 Avarage Waiting Time = 48.900002
+--------------------------------------------------------------------------------
+				<<< Q=5 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 5 Avarage Waiting Time = 49.500000
+--------------------------------------------------------------------------------
+				<<< Q=6 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 6 Avarage Waiting Time = 50.299999
+--------------------------------------------------------------------------------
+				<<< Q=7 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 7 Avarage Waiting Time = 51.000000
+--------------------------------------------------------------------------------
+				<<< Q=8 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 8 Avarage Waiting Time = 51.750000
+--------------------------------------------------------------------------------
+				<<< Q=9 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 9 Avarage Waiting Time = 52.349998
+--------------------------------------------------------------------------------
+				<<< Q=10 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 10 Avarage Waiting Time = 52.900002
+--------------------------------------------------------------------------------
+				<<< Q=11 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 11 Avarage Waiting Time = 53.049999
+--------------------------------------------------------------------------------
+				<<< Q=12 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 12 Avarage Waiting Time = 53.450001
+--------------------------------------------------------------------------------
+				<<< Q=13 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 13 Avarage Waiting Time = 53.700001
+--------------------------------------------------------------------------------
+				<<< Q=14 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 14 Avarage Waiting Time = 53.950001
+--------------------------------------------------------------------------------
+				<<< Q=15 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 15 Avarage Waiting Time = 53.950001
+--------------------------------------------------------------------------------
+				<<< Q=16 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 16 Avarage Waiting Time = 54.049999
+--------------------------------------------------------------------------------
+				<<< Q=17 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 17 Avarage Waiting Time = 54.099998
+--------------------------------------------------------------------------------
+				<<< Q=18 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 18 Avarage Waiting Time = 54.150002
+--------------------------------------------------------------------------------
+				<<< Q=19 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 19 Avarage Waiting Time = 54.200001
+--------------------------------------------------------------------------------
+				<<< Q=20 >>>
+
+
+		<<< AVERAGE WAITING TIME >>>
+
+The number of total processes is 20
+q= 20 Avarage Waiting Time = 54.200001
